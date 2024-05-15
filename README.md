@@ -20,7 +20,7 @@ Hi, I'm Praise Abu🙌, a motivated Full-Stack Developer and an Electrical/Elect
 <img align="right" alt="Eat, Sleep, Code, Repeat - GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
 
-**Talking about Personal Stuffs:**
+**Personal Stuffs:**
 
 - 🔭 I’m currently an Associate Full Stack Developer at Decagon.
 - 🌱 I’m currently learning React Native.
