@@ -50,5 +50,5 @@ Hi, I'm Praise Abu🙌, a motivated Full-Stack Developer and an Electrical/Elect
 <code><img height="20" src="https://simpleicons.org/icons/springboot.svg"></code>
 <code><img height="20" src="https://simpleicons.org/icons/html5.svg"></code>
 <code><img height="20" src="https://simpleicons.org/icons/tailwindcss.svg"></code>
-<code><img height="20" src="https://simpleicons.org/icons/css3.svg"></code>
+<code><img height="20" src="https://simpleicons.org/icons/figma.svg"></code>
 <code><img height="20" src="https://simpleicons.org/icons/adobephotoshop.svg"></code>
