@@ -28,8 +28,7 @@ Hi, I'm Praise Abu🙌, a motivated Full-Stack Developer and an Electrical/Elect
 - 💬 Ask me about anything, Would love to answer them.✌
 - 📫 How to reach me: 
 - ⚡ Check out my most recent [Clone](https://apple-iphone-clone-five.vercel.app/)
-- 📝 Here is my [Portfolio](https://pabu-portfolio.vercel.app/)
-- ✨ I brand too. [ArtGallery](https://www.instagram.com/abupraise/)
+- ✨ I design for brands too. [Catalogue](https://wa.me/c/2348125876219)
 
 
 
