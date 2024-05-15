@@ -14,7 +14,7 @@
 
 <br />
 
-Hi, I'm Praise Abu🙌, a graduate of Electrical/Electronic Engineering. A Full-Stack Developer and Embedded Systems Enthusiast. Apart from the fact that I love getting involved in Competitive Programming, I also love Problem Solving.❤✌
+Hi, I'm Praise Abu🙌, a motivated Full-Stack Developer and an Electrical/Electronic Engineering graduate. I excel in crafting efficient solutions with Java, React, and other full-stack technologies. Currently enhancing my skills in React Native.❤✌
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
