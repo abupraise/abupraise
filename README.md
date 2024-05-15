@@ -17,8 +17,7 @@
 Hi, I'm Praise Abu🙌, a motivated Full-Stack Developer and an Electrical/Electronic Engineering graduate. I excel in crafting efficient solutions with Java, React, and other full-stack technologies. Currently enhancing my skills in React Native.❤✌
 
 
-<img align="right" alt="Eat, Sleep, Code, Repeat - GIF" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC/giphy.gif" />
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<img align="right" alt="Eat, Sleep, Code, Repeat - GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
 
 **Personal Stuffs:**
