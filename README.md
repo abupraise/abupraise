@@ -25,7 +25,7 @@ Hi, I'm Praise Abu🙌, a motivated Full-Stack Developer and an Electrical/Elect
 - 🔭 I’m currently an Associate Full Stack Developer at Decagon.
 - 🌱 I’m currently learning React Native.
 - 👯 Part of Developer Community.
-- 💬 Ask me about anything, Would love to answer them.✌
+- 💬 Connect with me, lets make amazing products come alive!✌
 - 📫 How to reach me: 
 - ⚡ Check out my most recent [clone](https://apple-iphone-clone-five.vercel.app/)
 - ✨ I design for brands too [catalogue](https://wa.me/c/2348125876219)
