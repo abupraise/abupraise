@@ -5,10 +5,10 @@
 
 
 <a href="https://www.linkedin.com/in/p-abu1/">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="linkedin icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/abupraise/">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="instagram icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
 
@@ -17,7 +17,7 @@
 Hi, I'm Praise Abu🙌, a motivated Full-Stack Developer and an Electrical/Electronic Engineering graduate. I excel in crafting efficient solutions with Java, React, and other full-stack technologies. Currently enhancing my skills in React Native.❤✌
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+<img align="right" alt="Eat, Sleep, Code, Repeat - GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
 
 **Talking about Personal Stuffs:**
