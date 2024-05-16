@@ -1,5 +1,5 @@
 
-### Hello World 👋 It's [Praise!](https://pabu-portfolio.vercel.app)
+### Hello there👋 it's [Praise!](https://pabu-portfolio.vercel.app)
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 <br />
 
-Hi, I'm Praise Abu🙌, a motivated Full-Stack Developer and an Electrical/Electronic Engineering graduate. I excel in crafting efficient solutions with Java, React, and other full-stack technologies. Currently enhancing my skills in React Native.❤✌
+I am Praise Abu🙌, a motivated Full-Stack Developer and an Electrical/Electronic Engineering graduate. I excel in crafting efficient solutions with Java, React, and other full-stack technologies. Currently enhancing my skills in React Native.❤✌
 
 
 <img align="right" alt="Coding - GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
