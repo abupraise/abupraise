@@ -14,7 +14,7 @@
 
 <br />
 
-I am Praise Abu🙌, a motivated Full-Stack Developer and an Electrical/Electronic Engineering graduate. I excel in crafting efficient solutions with Java, React, and other full-stack technologies. Currently enhancing my skills in React Native.❤✌
+Hey there! I’m Praise Abu 🙌, a passionate Full-Stack Developer and an Electrical/Electronic Engineering graduate. I thrive on crafting innovative and efficient solutions with Java, React, C++ for embedded systems, and other cutting-edge technologies. I'm currently diving deeper into the world of React Native and exploring the fascinating realm of IoT. 🚀✨❤✌
 
 
 <img align="right" alt="Coding - GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
