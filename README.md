@@ -47,17 +47,3 @@ I’m Praise Abu 🙌, a passionate Full-Stack Developer and an Electrical/Elect
 <code><img height="20" src="https://simpleicons.org/icons/tailwindcss.svg"></code>
 <code><img height="20" src="https://simpleicons.org/icons/figma.svg"></code>
 <code><img height="20" src="https://simpleicons.org/icons/adobephotoshop.svg"></code>
-
-<style>
-    @media (max-width: 768px) {
-        .gif-container {
-            text-align: center;
-            margin-bottom: 20px;
-        }
-
-        .gif-container img {
-            float: none !important;
-            margin: 0 auto;
-        }
-    }
-</style>
