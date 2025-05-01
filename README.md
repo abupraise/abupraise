@@ -12,13 +12,13 @@
 
 <br />
 
-I’m Praise Abu 🙌, a passionate Full-Stack Developer and an Electrical/Electronic Engineering graduate. I thrive on crafting innovative and efficient solutions with Java, Javascript, C++ for embedded systems, and other cutting-edge technologies. I'm currently diving deeper into the world of React Native and exploring the fascinating realm of IoT. 🚀✨❤✌
+I am Praise Abu 🙌, a passionate Full-Stack Developer and an Electrical/Electronic Engineering graduate. I thrive on crafting innovative and efficient solutions with Java, Javascript, C++ for embedded systems, and other cutting-edge technologies. I am currently diving deeper into the world of React Native and exploring the fascinating realm of IoT. 🚀✨❤✌
 
 <img align="center" alt="Coding - GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 **Personal Stuffs:**
 
-- 🔭 I’m currently a Full Stack Developer at CriticalThinkers.
+- 🔭 I am currently a Full Stack Developer at CriticalThinkers.
 - 🌱 I love JAVA.
 - 👯 Part of Developer Community.
 - ⚡ Check out my most recent [clone](https://apple-iphone-clone-five.vercel.app/)
