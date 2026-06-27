@@ -37,7 +37,7 @@
 <td width="50%">
 
 **◆ Horizon**
-Financial SaaS platform — building the rails for fintech infrastructure.
+Financial SaaS platform (building the rails for fintech infrastructure).
 
 </td>
 <td width="50%">
