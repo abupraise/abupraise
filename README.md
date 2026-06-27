@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,100:1E40AF&height=180&section=header&text=PRAISE%20ABU&fontSize=48&fontColor=60A5FA&fontAlignY=40&animation=fadeIn&desc=Automotive%20Software%20Engineer%20%7C%20Full-Stack%20%26%20Embedded&descSize=16&descAlignY=62&descColor=93C5FD" width="100%" alt="header banner"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,100:1E40AF&height=180&section=header&text=PRAISE%20ABU&fontSize=48&fontColor=60A5FA&fontAlignY=40&animation=fadeIn&desc=Automotive%20Software%20Engineer%20%7C%20Full-Stack%20%26%20Embedded&descSize=16&descAlignY=62&descColor=93C5FD" width="100%" alt="header banner"/> -->
 
 <a href="https://pabu-portfolio.vercel.app">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2500&pause=900&color=60A5FA&center=true&vCenter=true&width=600&height=50&lines=booting+automotive_stack.exe...;loading%3A+Java+%2B+C%2B%2B+%2B+VHDL;status%3A+Automotive+Software+Engineer;system+ready+%E2%9C%93" alt="Typing SVG" />
